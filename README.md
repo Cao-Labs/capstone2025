@@ -17,3 +17,13 @@ How to use your project (commands, examples).
 
 ## License
 Specify your license here.
+
+
+
+- [ ] Define project scope
+- [ ] Create initial GitHub repo
+- [ ] Add README.md with project info
+- [ ] Draft project timeline & milestones
+- [ ] Assign tasks to team members
+- [ ] Upload first version of code/docs
+- [ ] Review tasks weekly & update progress
